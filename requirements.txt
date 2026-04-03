@@ -1,0 +1,5 @@
+discord.py>=2.5.2
+openai>=1.82.0
+aiosqlite>=0.20.0
+python-dotenv
+aiohttp

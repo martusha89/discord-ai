@@ -1,4 +1,12 @@
-# Discord AI Bot
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=170&section=header&text=Discord%20AI&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=A%20Discord%20bot%20with%20personality,%20tone,%20memory%20%26%20image%20gen&descSize=17&descAlignY=64" width="100%" />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![license MIT](https://img.shields.io/badge/license-MIT-A855F7?style=for-the-badge)](LICENSE)
+[![deploy Railway](https://img.shields.io/badge/deploy-Railway-22D3EE?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com)
+
+</div>
 
 A Discord bot with personality. Not another generic ChatGPT wrapper — this one has a tone engine, emotional awareness, full-text message search, channel summaries, image generation, and GIF reactions.
 

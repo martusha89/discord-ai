@@ -176,3 +176,7 @@ requirements.txt     # Python dependencies
 ## License
 
 MIT
+
+## About
+
+Built by [Marta Varen](https://aidhd.co). Part of [AIDHD](https://aidhd.co): guides, tools, and open knowledge for human × AI companionship.
